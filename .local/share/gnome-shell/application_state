@@ -1,17 +1,13 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="60" last-seen="1646807724"/>
+    <application id="org.gnome.Nautilus.desktop" score="226" last-seen="1656562653"/>
     <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
-    <application id="org.gnome.FileRoller.desktop" score="2" last-seen="1646623253"/>
-    <application id="gnome-initial-setup.desktop" score="2" last-seen="1646615765"/>
-    <application id="org.gnome.Terminal.desktop" score="267" last-seen="1646807726"/>
-    <application id="org.gnome.gedit.desktop" score="2" last-seen="1646807711"/>
-    <application id="ibus-setup-hangul.desktop" score="6" last-seen="1646617521"/>
-    <application id="gnome-language-selector.desktop" score="10" last-seen="1646617149"/>
-    <application id="gnome-control-center.desktop" score="66" last-seen="1646806582"/>
-    <application id="firefox.desktop" score="11" last-seen="1646789752"/>
-    <application id="update-manager.desktop" score="2" last-seen="1646615895"/>
-    <application id="org.gnome.Screenshot.desktop" score="4" last-seen="1646807226"/>
+    <application id="org.gnome.FileRoller.desktop" score="2" last-seen="1656562534"/>
+    <application id="firefox.desktop" score="10" last-seen="1656562465"/>
+    <application id="org.gnome.Terminal.desktop" score="8884" last-seen="1656562668"/>
+    <application id="org.gnome.gedit.desktop" score="297" last-seen="1656562651"/>
+    <application id="gnome-control-center.desktop" score="14" last-seen="1656561651"/>
+    <application id="update-manager.desktop" score="0" last-seen="1656292463"/>
   </context>
 </application-state>

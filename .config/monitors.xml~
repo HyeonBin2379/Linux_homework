@@ -13,9 +13,9 @@
           <serial>unknown</serial>
         </monitorspec>
         <mode>
-          <width>2528</width>
-          <height>1420</height>
-          <rate>59.9991455078125</rate>
+          <width>1733</width>
+          <height>1135</height>
+          <rate>59.998634338378906</rate>
         </mode>
       </monitor>
     </logicalmonitor>
