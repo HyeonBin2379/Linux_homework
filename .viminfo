@@ -1,0 +1,2832 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.1.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~Msle0~/\<stack\>
+
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:wq
+|2,0,1656495832,,"wq"
+:w
+|2,0,1656494231,,"w"
+:q
+|2,0,1656494098,,"q"
+:Wq
+|2,0,1656493682,,"Wq"
+:y
+|2,0,1656482100,,"y"
+:W
+|2,0,1656482076,,"W"
+:q!
+|2,0,1656297611,,"q!"
+:WQ
+|2,0,1654239463,,"WQ"
+:wQ
+|2,0,1654232907,,"wQ"
+:set noeol
+|2,0,1651660461,,"set noeol"
+:noeol
+|2,0,1651660436,,"noeol"
+:wq\
+|2,0,1651659191,,"wq\\"
+:q\
+|2,0,1651657700,,"q\\"
+:wq setvbuf1.c
+|2,0,1647427435,,"wq setvbuf1.c"
+:set nu
+|2,0,1646806849,,"set nu"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+? \<stack\>
+|2,1,1656379824,,"\\<stack\\>"
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+"0	LINE	0
+		LQ_enqueue(queue, LQ_createNode("abc"));
+|3,0,0,1,1,0,1656495380,"	LQ_enqueue(queue, LQ_createNode(\"abc\"));"
+"1	LINE	0
+	
+|3,0,1,1,1,0,1656494607,""
+"2	LINE	0
+	}
+|3,0,2,1,1,0,1656494607,"}"
+"3	LINE	0
+		return (queue->front == NULL);
+|3,0,3,1,1,0,1656494607,"	return (queue->front == NULL);"
+"4	LINE	0
+	{
+|3,0,4,1,1,0,1656494607,"{"
+"5	LINE	0
+	int LS_isEmpty(LinkedListQueue * queue)
+|3,0,5,1,1,0,1656494606,"int LS_isEmpty(LinkedListQueue * queue)"
+"6	LINE	0
+	
+|3,0,6,1,1,0,1656494606,""
+"7	LINE	0
+	}
+|3,0,7,1,1,0,1656494606,"}"
+"8	LINE	0
+		return prev;
+|3,0,8,1,1,0,1656494606,"	return prev;"
+"9	LINE	0
+	
+|3,0,9,1,1,0,1656494606,""
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1656495830," "
+
+# 파일 마크:
+'0  1  0  ~/Makefile
+|4,48,1,0,1656563048,"~/Makefile"
+'1  26  5  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,49,26,5,1656495832,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+'2  14  29  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,50,14,29,1656495799,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+'3  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,51,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+'4  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,52,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+'5  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,53,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+'6  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,54,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+'7  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,55,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+'8  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,56,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+'9  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,57,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+
+# 점프목록 (새것이 먼저):
+-'  1  0  ~/Makefile
+|4,39,1,0,1656563048,"~/Makefile"
+-'  26  5  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,26,5,1656495832,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  26  5  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,26,5,1656495832,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,1,0,1656495826,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,1,0,1656495826,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  14  29  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,14,29,1656495799,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  14  29  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,14,29,1656495799,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  14  29  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,14,29,1656495799,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  14  29  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,14,29,1656495799,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495789,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495789,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495789,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495789,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  15  22  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,15,22,1656495765,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495748,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495748,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495748,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495748,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  22  22  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,22,22,1656495745,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+|4,39,1,0,1656495733,"~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  6  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,6,0,1656495725,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,0,1656495721,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  1  26  ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+|4,39,1,26,1656495704,"~/datastr/queue/linkedListQueue/LinkedListQueue.c"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+-'  33  0  ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+|4,39,33,0,1656495697,"~/datastr/queue/linkedListQueue/LinkedListQueue.h"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/Makefile
+	*	1656563044	0
+	"	1	0
+	.	6	4
+	+	4	4
+	+	6	4
+
+> ~/datastr/queue/linkedListQueue/LinkedListQueue.h
+	*	1656495831	0
+	"	26	5
+	^	7	0
+	.	26	5
+	+	33	5
+	+	30	55
+	+	22	5
+	+	30	63
+	+	30	42
+	+	30	21
+	+	8	13
+	+	13	26
+	+	19	0
+	+	17	0
+	+	19	10
+	+	30	39
+	+	30	54
+	+	30	40
+	+	30	0
+	+	22	0
+	+	28	7
+	+	25	9
+	+	26	9
+	+	29	42
+	+	31	40
+	+	6	19
+	+	31	0
+	+	12	2
+	+	26	5
+
+> ~/datastr/queue/linkedListQueue/LinkedListQueue.c
+	*	1656495798	0
+	"	14	29
+	^	15	23
+	.	14	29
+	+	2	5
+	+	2	9
+	+	2	41
+	+	2	54
+	+	2	0
+	+	2	27
+	+	2	60
+	+	2	8
+	+	2	0
+	+	2	24
+	+	2	22
+	+	2	20
+	+	2	0
+	+	2	24
+	+	2	12
+	+	2	15
+	+	2	11
+	+	2	0
+	+	2	30
+	+	2	0
+	+	2	16
+	+	2	23
+	+	2	0
+	+	2	12
+	+	2	0
+	+	2	11
+	+	2	0
+	+	2	2
+	+	2	12
+	+	2	39
+	+	2	0
+	+	51	0
+	+	37	54
+	+	52	40
+	+	69	0
+	+	52	5
+	+	73	1
+	+	74	0
+	+	72	30
+	+	68	0
+	+	52	11
+	+	5	8
+	+	6	0
+	+	7	0
+	+	8	0
+	+	6	23
+	+	7	22
+	+	8	20
+	+	18	12
+	+	17	0
+	+	13	2
+	+	15	23
+	+	29	15
+	+	34	11
+	+	50	0
+	+	44	0
+	+	67	12
+	+	64	2
+	+	43	0
+	+	56	26
+	+	59	20
+	+	63	13
+	+	66	0
+	+	65	0
+	+	43	16
+	+	49	16
+	+	42	23
+	+	48	23
+	+	47	37
+	+	41	24
+	+	47	32
+	+	1	26
+	+	15	22
+	+	14	29
+
+> ~/datastr/queue/linkedListQueue/Test_LinkedListQueue.c
+	*	1656495744	0
+	"	22	22
+	^	17	12
+	.	17	11
+	+	27	0
+	+	26	8
+	+	25	23
+	+	10	40
+	+	11	0
+	+	12	0
+	+	13	0
+	+	11	36
+	+	12	36
+	+	13	41
+	+	23	0
+	+	22	24
+	+	24	0
+	+	17	11
+
+> ~/datastr/queue/linkedListQueue/Makefile
+	*	1656495516	0
+	"	7	56
+	^	7	57
+	.	7	56
+	+	7	14
+	+	6	39
+	+	5	39
+	+	8	24
+	+	10	19
+	+	9	9
+	+	7	56
+
+> ~/datastr/queue/Test_CircularQueue.c
+	*	1656494097	0
+	"	24	13
+	^	8	26
+	.	8	25
+	+	38	0
+	+	5	7
+	+	38	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	11	19
+	+	12	19
+	+	13	22
+	+	19	0
+	+	19	2
+	+	25	0
+	+	24	24
+	+	28	0
+	+	27	34
+	+	33	0
+	+	33	2
+	+	38	0
+	+	31	1
+	+	33	2
+	+	35	24
+	+	37	8
+	+	8	25
+
+> ~/datastr/queue/CircularQueue.c
+	*	1656491735	0
+	"	17	54
+	^	17	55
+	.	17	55
+	+	2	0
+	+	2	19
+	+	2	12
+	+	2	22
+	+	2	13
+	+	2	35
+	+	2	59
+	+	2	26
+	+	2	72
+	+	2	66
+	+	2	27
+	+	2	37
+	+	2	18
+	+	2	0
+	+	2	72
+	+	2	18
+	+	2	63
+	+	2	61
+	+	2	69
+	+	2	27
+	+	2	57
+	+	2	37
+	+	2	42
+	+	2	0
+	+	64	0
+	+	62	0
+	+	92	0
+	+	11	63
+	+	16	19
+	+	31	12
+	+	54	0
+	+	51	3
+	+	43	17
+	+	53	17
+	+	56	2
+	+	61	35
+	+	70	27
+	+	68	2
+	+	68	18
+	+	72	35
+	+	80	59
+	+	84	35
+	+	91	40
+	+	89	35
+	+	63	11
+	+	70	2
+	+	91	25
+	+	84	36
+	+	61	35
+	+	12	30
+	+	60	0
+	+	50	7
+	+	5	8
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	6	63
+	+	7	30
+	+	8	20
+	+	9	19
+	+	14	12
+	+	27	26
+	+	24	17
+	+	33	0
+	+	29	35
+	+	35	37
+	+	38	17
+	+	40	35
+	+	48	59
+	+	52	37
+	+	59	42
+	+	17	55
+
+> ~/datastr/queue/CircularQueue.h
+	*	1656491215	0
+	"	30	0
+	^	29	37
+	.	30	0
+	+	60	5
+	+	32	18
+	+	60	6
+	+	60	17
+	+	60	31
+	+	60	15
+	+	60	13
+	+	60	44
+	+	60	0
+	+	59	5
+	+	47	15
+	+	39	17
+	+	46	13
+	+	45	9
+	+	59	0
+	+	52	54
+	+	32	0
+	+	12	7
+	+	19	15
+	+	11	17
+	+	18	13
+	+	30	1
+	+	22	19
+	+	23	12
+	+	25	26
+	+	25	0
+	+	25	16
+	+	25	17
+	+	25	35
+	+	26	17
+	+	26	35
+	+	28	59
+	+	29	37
+	+	30	42
+	+	21	57
+	+	22	43
+	+	22	0
+	+	23	0
+	+	24	56
+	+	25	45
+	+	26	0
+	+	27	37
+	+	28	37
+	+	29	36
+	+	30	0
+
+> ~/datastr/queue/Makefile
+	*	1656490067	0
+	"	1	0
+	^	8	28
+	.	8	27
+	+	5	40
+	+	6	40
+	+	7	36
+	+	9	43
+	+	10	22
+	+	9	12
+	+	7	17
+	+	8	27
+
+> ~/datastr/stack/arraystack/Makefile
+	*	1656489535	0
+	"	1	0
+
+> ~/backjoon/17478.c
+	*	1656483851	0
+	"	52	0
+	^	1	18
+	.	18	7
+	+	41	6
+	+	11	9
+	+	12	0
+	+	41	6
+	+	41	7
+	+	41	6
+	+	41	2
+	+	11	0
+	+	10	3
+	+	41	12
+	+	41	8
+	+	41	10
+	+	41	11
+	+	41	10
+	+	41	0
+	+	41	1
+	+	41	2
+	+	41	1
+	+	41	0
+	+	7	3
+	+	41	10
+	+	41	0
+	+	7	4
+	+	8	116
+	+	9	8
+	+	10	8
+	+	8	113
+	+	9	3
+	+	10	3
+	+	7	33
+	+	8	113
+	+	9	3
+	+	10	5
+	+	9	114
+	+	10	123
+	+	12	0
+	+	20	0
+	+	15	32
+	+	19	9
+	+	40	0
+	+	35	27
+	+	35	0
+	+	40	7
+	+	41	0
+	+	26	67
+	+	23	2
+	+	35	27
+	+	37	0
+	+	38	0
+	+	36	0
+	+	40	0
+	+	34	0
+	+	27	0
+	+	29	1
+	+	31	0
+	+	28	0
+	+	6	15
+	+	11	2
+	+	15	33
+	+	17	0
+	+	23	33
+	+	25	2
+	+	28	33
+	+	30	0
+	+	37	32
+	+	39	0
+	+	32	8
+	+	16	11
+	+	24	11
+	+	29	11
+	+	38	10
+	+	18	10
+	+	26	70
+	+	31	5
+	+	40	30
+	+	31	31
+	+	49	4
+	+	49	90
+	+	18	7
+
+> ~/backjoon/174778.c
+	*	1656481382	0
+	"	9	0
+	^	9	0
+	.	9	0
+	+	44	0
+	+	43	8
+	+	42	0
+	+	3	0
+	+	33	1
+	+	42	10
+	+	26	18
+	+	42	15
+	+	8	43
+	+	10	14
+	+	13	0
+	+	11	73
+	+	32	33
+	+	11	70
+	+	14	6
+	+	27	0
+	+	17	126
+	+	24	135
+	+	4	28
+	+	42	16
+	+	6	12
+	+	4	32
+	+	8	0
+	+	27	2
+	+	29	0
+	+	32	0
+	+	31	0
+	+	14	6
+	+	17	0
+	+	28	0
+	+	14	7
+	+	15	0
+	+	17	126
+	+	18	0
+	+	17	0
+	+	16	2
+	+	19	0
+	+	20	0
+	+	21	0
+	+	25	0
+	+	22	0
+	+	24	0
+	+	25	0
+	+	26	25
+	+	10	8
+	+	8	44
+	+	9	0
+
+> ~/backjoon/10773.c
+	*	1656479778	0
+	"	80	3
+	^	80	4
+	.	80	3
+	+	87	0
+	+	86	8
+	+	81	0
+	+	72	6
+	+	61	17
+	+	75	13
+	+	60	19
+	+	65	0
+	+	75	17
+	+	62	12
+	+	83	0
+	+	83	19
+	+	83	20
+	+	75	15
+	+	75	21
+	+	75	4
+	+	85	20
+	+	64	26
+	+	10	28
+	+	15	12
+	+	12	0
+	+	8	0
+	+	14	13
+	+	24	36
+	+	17	29
+	+	37	35
+	+	42	0
+	+	39	0
+	+	56	0
+	+	55	25
+	+	51	18
+	+	41	35
+	+	40	20
+	+	41	1
+	+	41	0
+	+	34	38
+	+	30	48
+	+	35	15
+	+	22	18
+	+	27	12
+	+	8	17
+	+	20	24
+	+	66	13
+	+	72	14
+	+	75	22
+	+	62	8
+	+	83	8
+	+	80	33
+	+	47	1
+	+	46	35
+	+	45	28
+	+	67	11
+	+	67	0
+	+	81	11
+	+	67	0
+	+	81	0
+	+	75	15
+	+	61	8
+	+	70	9
+	+	75	1
+	+	73	14
+	+	75	2
+	+	83	0
+	+	73	16
+	+	76	0
+	+	74	13
+	+	80	0
+	+	79	0
+	+	71	0
+	+	78	20
+	+	62	11
+	+	80	3
+
+> ~/backjoon/10828.c
+	*	1656478109	0
+	"	110	0
+	^	107	22
+	.	53	35
+	+	71	0
+	+	107	21
+	+	109	8
+	+	105	6
+	+	71	0
+	+	72	25
+	+	67	7
+	+	71	16
+	+	72	23
+	+	72	25
+	+	15	18
+	+	23	0
+	+	28	0
+	+	105	13
+	+	105	12
+	+	105	20
+	+	105	13
+	+	105	20
+	+	14	0
+	+	18	36
+	+	23	0
+	+	72	19
+	+	74	27
+	+	108	1
+	+	107	1
+	+	105	1
+	+	105	19
+	+	105	0
+	+	105	1
+	+	105	2
+	+	76	1
+	+	75	0
+	+	105	32
+	+	105	33
+	+	105	15
+	+	105	0
+	+	69	13
+	+	89	8
+	+	100	4
+	+	104	0
+	+	89	4
+	+	105	0
+	+	96	0
+	+	81	21
+	+	84	14
+	+	69	9
+	+	74	38
+	+	84	26
+	+	89	0
+	+	74	39
+	+	86	24
+	+	93	24
+	+	75	0
+	+	21	47
+	+	21	0
+	+	22	31
+	+	99	34
+	+	48	13
+	+	52	4
+	+	54	0
+	+	53	0
+	+	42	12
+	+	43	4
+	+	44	0
+	+	103	34
+	+	21	43
+	+	75	24
+	+	15	12
+	+	11	0
+	+	15	17
+	+	34	23
+	+	44	31
+	+	53	33
+	+	93	28
+	+	86	28
+	+	86	0
+	+	15	11
+	+	13	13
+	+	22	31
+	+	23	0
+	+	27	19
+	+	21	42
+	+	18	41
+	+	72	25
+	+	53	29
+	+	85	23
+	+	86	32
+	+	88	23
+	+	93	31
+	+	94	0
+	+	92	5
+	+	93	4
+	+	92	23
+	+	10	6
+	+	9	17
+	+	21	44
+	+	15	4
+	+	34	27
+	+	44	35
+	+	53	35
+
+> ~/25083.c
+	*	1656473905	0
+	"	8	20
+	^	8	21
+	.	8	21
+	+	5	0
+	+	14	0
+	+	2	19
+	+	13	8
+	+	8	21
+
+> ~/1371.c
+	*	1656473474	0
+	"	1	16
+	^	3	0
+	.	36	0
+	+	54	16
+	+	54	10
+	+	54	0
+	+	54	25
+	+	54	17
+	+	53	24
+	+	53	0
+	+	53	26
+	+	53	16
+	+	39	1
+	+	12	43
+	+	15	0
+	+	55	0
+	+	15	0
+	+	15	4
+	+	16	13
+	+	17	0
+	+	54	25
+	+	39	1
+	+	39	6
+	+	39	30
+	+	39	20
+	+	45	3
+	+	9	1
+	+	6	20
+	+	4	32
+	+	8	0
+	+	7	13
+	+	4	14
+	+	2	0
+	+	4	13
+	+	4	11
+	+	4	0
+	+	45	12
+	+	4	41
+	+	7	13
+	+	46	1
+	+	44	8
+	+	46	37
+	+	46	1
+	+	46	0
+	+	48	0
+	+	46	0
+	+	19	0
+	+	31	2
+	+	39	22
+	+	39	31
+	+	39	0
+	+	39	29
+	+	53	3
+	+	53	48
+	+	53	12
+	+	54	16
+	+	15	0
+	+	14	12
+	+	12	25
+	+	39	0
+	+	10	0
+	+	11	1
+	+	39	0
+	+	44	12
+	+	11	13
+	+	24	7
+	+	46	0
+	+	42	0
+	+	44	0
+	+	53	0
+	+	46	0
+	+	49	7
+	+	20	14
+	+	43	8
+	+	53	0
+	+	50	29
+	+	51	20
+	+	53	11
+	+	44	8
+	+	10	1
+	+	10	0
+	+	53	0
+	+	42	12
+	+	53	17
+	+	10	9
+	+	14	10
+	+	2	0
+	+	10	0
+	+	11	0
+	+	32	0
+	+	33	0
+	+	39	0
+	+	57	8
+	+	53	0
+	+	43	12
+	+	46	0
+	+	14	11
+	+	27	42
+	+	2	19
+	+	36	0
+
+> ~/1652.c
+	*	1656406702	0
+	"	82	0
+	^	82	1
+	.	38	0
+	+	31	0
+	+	43	0
+	+	45	20
+	+	28	21
+	+	30	23
+	+	45	24
+	+	30	18
+	+	27	13
+	+	32	8
+	+	35	0
+	+	33	9
+	+	32	0
+	+	19	13
+	+	37	22
+	+	45	29
+	+	46	0
+	+	46	53
+	+	46	0
+	+	46	3
+	+	46	0
+	+	46	29
+	+	46	23
+	+	46	9
+	+	46	28
+	+	46	33
+	+	46	38
+	+	46	27
+	+	46	25
+	+	46	6
+	+	46	0
+	+	46	19
+	+	46	21
+	+	46	0
+	+	46	8
+	+	46	3
+	+	46	0
+	+	45	1
+	+	46	0
+	+	46	28
+	+	46	0
+	+	46	13
+	+	46	8
+	+	46	11
+	+	46	20
+	+	46	4
+	+	46	8
+	+	46	0
+	+	46	10
+	+	46	40
+	+	46	5
+	+	46	41
+	+	46	0
+	+	46	9
+	+	46	0
+	+	46	9
+	+	46	29
+	+	46	0
+	+	46	9
+	+	46	0
+	+	46	16
+	+	46	0
+	+	46	10
+	+	46	0
+	+	46	42
+	+	46	45
+	+	46	15
+	+	46	46
+	+	46	0
+	+	46	6
+	+	46	10
+	+	46	5
+	+	46	0
+	+	46	23
+	+	46	44
+	+	46	36
+	+	46	29
+	+	46	33
+	+	46	3
+	+	46	0
+	+	46	39
+	+	46	22
+	+	46	10
+	+	46	15
+	+	46	12
+	+	46	11
+	+	46	0
+	+	46	16
+	+	46	17
+	+	46	0
+	+	27	19
+	+	34	10
+	+	39	26
+	+	38	0
+
+> ~/datastr/stack/linkedListStack/LinkedListStack.c
+	*	1656382590	0
+	"	79	0
+	^	79	0
+	.	79	0
+	+	35	0
+	+	20	60
+	+	37	36
+	+	20	45
+	+	83	39
+	+	105	0
+	+	104	29
+	+	99	13
+	+	93	7
+	+	91	29
+	+	97	0
+	+	94	2
+	+	95	0
+	+	92	0
+	+	96	29
+	+	98	0
+	+	85	18
+	+	7	21
+	+	15	0
+	+	14	14
+	+	17	12
+	+	23	1
+	+	20	65
+	+	28	15
+	+	27	0
+	+	34	11
+	+	20	22
+	+	44	0
+	+	41	23
+	+	44	0
+	+	44	36
+	+	44	32
+	+	55	21
+	+	44	29
+	+	44	22
+	+	44	2
+	+	53	2
+	+	54	0
+	+	50	0
+	+	49	28
+	+	52	28
+	+	55	21
+	+	78	2
+	+	80	15
+	+	61	0
+	+	65	19
+	+	74	0
+	+	73	37
+	+	77	29
+	+	79	0
+
+> ~/datastr/stack/arraystack/ArrayStack.c
+	*	1656379877	0
+	"	22	15
+	^	22	16
+	.	22	15
+	+	25	15
+	+	17	11
+	+	50	0
+	+	44	25
+	+	39	18
+	+	34	37
+	+	49	39
+	+	27	31
+	+	29	35
+	+	19	27
+	+	21	5
+	+	14	12
+	+	9	15
+	+	7	0
+	+	6	24
+	+	13	13
+	+	8	8
+	+	9	8
+	+	22	15
+
+> ~/datastr/calculator/Calculator.c
+	*	1656319789	0
+	"	3	33
+	^	3	36
+	.	3	36
+	+	133	43
+	+	135	28
+	+	126	76
+	+	222	24
+	+	215	2
+	+	219	33
+	+	221	0
+	+	223	14
+	+	181	21
+	+	179	0
+	+	214	0
+	+	185	18
+	+	212	7
+	+	210	0
+	+	213	48
+	+	205	55
+	+	206	0
+	+	207	0
+	+	208	0
+	+	206	38
+	+	207	15
+	+	208	13
+	+	207	41
+	+	208	39
+	+	136	13
+	+	185	25
+	+	133	38
+	+	135	3
+	+	136	0
+	+	138	2
+	+	134	0
+	+	137	0
+	+	109	0
+	+	128	74
+	+	136	0
+	+	134	0
+	+	132	44
+	+	45	8
+	+	175	0
+	+	174	21
+	+	5	0
+	+	7	76
+	+	21	0
+	+	23	0
+	+	22	2
+	+	31	52
+	+	37	30
+	+	39	74
+	+	31	56
+	+	44	44
+	+	48	26
+	+	55	61
+	+	62	45
+	+	66	38
+	+	75	78
+	+	81	47
+	+	98	0
+	+	45	39
+	+	96	38
+	+	88	36
+	+	110	70
+	+	113	65
+	+	117	8
+	+	118	5
+	+	120	0
+	+	113	11
+	+	119	39
+	+	126	62
+	+	106	50
+	+	126	91
+	+	126	15
+	+	119	0
+	+	128	0
+	+	106	57
+	+	128	0
+	+	126	62
+	+	127	39
+	+	143	74
+	+	173	50
+	+	176	15
+	+	180	27
+	+	187	26
+	+	156	41
+	+	157	33
+	+	202	22
+	+	211	63
+	+	193	6
+	+	183	19
+	+	193	48
+	+	217	60
+	+	223	39
+	+	180	21
+	+	187	30
+	+	119	68
+	+	4	48
+	+	22	13
+	+	44	44
+	+	45	35
+	+	2	72
+	+	3	36
+
+> ~/datastr/calculator/Makefile
+	*	1656316990	0
+	"	12	9
+	^	12	10
+	.	12	9
+	+	3	9
+	+	5	36
+	+	6	36
+	+	7	33
+	+	8	24
+	+	7	49
+	+	11	9
+	+	10	22
+	+	6	22
+	+	8	9
+	+	10	9
+	+	12	9
+
+> ~/datastr/calculator/Test_Calculator.c
+	*	1656316978	0
+	"	18	31
+	^	25	9
+	.	3	10
+	+	26	0
+	+	13	0
+	+	13	43
+	+	20	33
+	+	23	44
+	+	25	8
+	+	3	10
+
+> ~/datastr/calculator/Calculator.h
+	*	1656316015	0
+	"	21	26
+	^	21	27
+	.	21	26
+	+	25	5
+	+	17	8
+	+	16	7
+	+	9	21
+	+	10	22
+	+	11	9
+	+	12	10
+	+	13	14
+	+	14	12
+	+	15	11
+	+	23	36
+	+	21	26
+
+> ~/datastr/calculator/LinkedListStack.h
+	*	1656312518	0
+	"	1	18
+	^	1	19
+	.	19	11
+	+	35	5
+	+	4	18
+	+	32	4
+	+	31	10
+	+	33	40
+	+	14	6
+	+	13	26
+	+	20	17
+	+	19	11
+
+> ~/datastr/calculator/LinkedListStack.c
+	*	1656311477	0
+	"	1	20
+	^	84	14
+	.	84	13
+	+	3	46
+	+	54	4
+	+	36	3
+	+	81	1
+	+	97	0
+	+	7	21
+	+	15	0
+	+	14	14
+	+	17	12
+	+	16	0
+	+	29	0
+	+	80	17
+	+	92	7
+	+	84	9
+	+	92	13
+	+	85	30
+	+	91	0
+	+	90	29
+	+	96	29
+	+	55	1
+	+	76	0
+	+	32	0
+	+	22	14
+	+	20	38
+	+	28	15
+	+	33	11
+	+	50	0
+	+	41	0
+	+	36	50
+	+	40	23
+	+	48	0
+	+	47	28
+	+	49	28
+	+	52	21
+	+	75	15
+	+	73	2
+	+	74	0
+	+	61	19
+	+	70	0
+	+	70	3
+	+	71	26
+	+	72	29
+	+	80	18
+	+	84	13
+
+> ~/datastr/linkedListStack/Makefile
+	*	1656310017	0
+	"	9	9
+	^	9	10
+	.	9	9
+	+	5	39
+	+	7	51
+	+	9	42
+	+	6	39
+	+	8	24
+	+	10	19
+	+	14	7
+	+	9	9
+
+> ~/datastr/linkedListStack/LinkedListStack.c
+	*	1656309546	0
+	"	1	20
+	^	89	14
+	.	89	13
+	+	53	38
+	+	35	37
+	+	54	32
+	+	74	15
+	+	90	11
+	+	110	0
+	+	110	16
+	+	92	51
+	+	110	23
+	+	110	30
+	+	110	0
+	+	110	3
+	+	110	28
+	+	110	0
+	+	110	35
+	+	110	4
+	+	110	32
+	+	110	59
+	+	110	0
+	+	110	21
+	+	113	0
+	+	110	67
+	+	110	68
+	+	110	34
+	+	110	0
+	+	107	0
+	+	97	23
+	+	105	2
+	+	104	28
+	+	106	0
+	+	103	0
+	+	106	28
+	+	109	21
+	+	113	29
+	+	130	0
+	+	121	2
+	+	126	0
+	+	125	36
+	+	128	25
+	+	118	19
+	+	129	29
+	+	132	15
+	+	137	18
+	+	144	0
+	+	141	32
+	+	148	0
+	+	145	2
+	+	147	9
+	+	150	13
+	+	155	1
+	+	157	0
+	+	154	19
+	+	123	50
+	+	114	0
+	+	127	0
+	+	144	18
+	+	94	0
+	+	92	1
+	+	7	21
+	+	17	12
+	+	17	0
+	+	17	14
+	+	17	28
+	+	17	0
+	+	11	30
+	+	15	0
+	+	12	2
+	+	14	14
+	+	16	12
+	+	22	43
+	+	19	37
+	+	27	15
+	+	32	11
+	+	71	15
+	+	55	28
+	+	37	0
+	+	76	18
+	+	87	0
+	+	84	2
+	+	85	10
+	+	86	29
+	+	93	29
+	+	60	0
+	+	57	2
+	+	59	19
+	+	62	2
+	+	70	0
+	+	67	0
+	+	67	3
+	+	69	29
+	+	49	0
+	+	43	0
+	+	39	23
+	+	47	0
+	+	46	28
+	+	48	28
+	+	51	21
+	+	78	7
+	+	91	7
+	+	89	13
+
+> ~/datastr/linkedListStack/LinkedListStack.h
+	*	1656309522	0
+	"	1	7
+	^	33	8
+	.	33	7
+	+	1	27
+	+	1	6
+	+	1	26
+	+	1	17
+	+	1	11
+	+	1	5
+	+	1	11
+	+	1	6
+	+	1	3
+	+	1	4
+	+	1	41
+	+	1	38
+	+	1	70
+	+	1	80
+	+	1	8
+	+	1	26
+	+	57	35
+	+	40	27
+	+	46	7
+	+	47	0
+	+	45	26
+	+	52	17
+	+	51	11
+	+	60	6
+	+	57	11
+	+	58	8
+	+	61	39
+	+	60	49
+	+	67	5
+	+	58	14
+	+	36	0
+	+	14	6
+	+	13	25
+	+	20	17
+	+	19	11
+	+	29	39
+	+	28	52
+	+	33	37
+	+	32	7
+	+	33	7
+
+> ~/datastr/linkedListStack/Test_LinkedListStack.c
+	*	1656307950	0
+	"	1	27
+	^	1	28
+	.	32	50
+	+	39	0
+	+	13	1
+	+	14	0
+	+	15	0
+	+	16	0
+	+	14	35
+	+	15	35
+	+	16	35
+	+	15	35
+	+	16	40
+	+	35	0
+	+	23	25
+	+	27	25
+	+	26	2
+	+	29	25
+	+	38	8
+	+	37	24
+	+	34	15
+	+	32	23
+	+	34	25
+	+	32	50
+
+> ~/datastr/arraystack/Makefile
+	*	1656298966	0
+	"	14	7
+	^	14	8
+	.	14	7
+	+	14	7
+
+> ~/datastr/arraystack/Test_ArrayStack.c
+	*	1656298658	0
+	"	8	24
+	^	8	25
+	.	8	24
+	+	18	0
+	+	8	24
+
+> ~/datastr/arraystack/ArrayStack.c
+	*	1656298634	0
+	"	52	29
+	^	52	30
+	.	52	29
+	+	26	7
+	+	18	11
+	+	48	0
+	+	9	18
+	+	15	12
+	+	23	15
+	+	28	31
+	+	30	35
+	+	35	22
+	+	42	6
+	+	35	29
+	+	37	35
+	+	42	18
+	+	47	25
+	+	53	0
+	+	52	29
+
+> ~/datastr/arraystack/ArrayStack.h
+	*	1656298479	0
+	"	28	33
+	^	28	34
+	.	29	0
+	+	12	0
+	+	12	7
+	+	19	12
+	+	18	13
+	+	25	0
+	+	24	39
+	+	30	5
+	+	28	34
+	+	29	0
+
+> ~/datastr/Test_ArrayStack.c
+	*	1656297351	0
+	"	15	43
+	^	29	10
+	.	15	43
+	+	32	0
+	+	11	1
+	+	11	0
+	+	12	0
+	+	13	0
+	+	11	17
+	+	12	17
+	+	13	20
+	+	15	99
+	+	27	0
+	+	26	30
+	+	31	8
+	+	29	9
+	+	15	43
+
+> ~/datastr/Test_ArrayStack
+	*	1656297339	0
+	"	1	0
+
+> ~/datastr/Makefile
+	*	1656297308	0
+	"	6	44
+	^	6	45
+	.	6	44
+	+	10	21
+	+	6	7
+	+	14	13
+	+	6	33
+	+	3	3
+	+	5	13
+	+	7	0
+	+	6	13
+	+	7	38
+	+	8	39
+	+	7	26
+	+	8	9
+	+	10	9
+	+	3	5
+	+	8	7
+	+	10	7
+	+	8	33
+	+	10	22
+	+	8	27
+	+	7	14
+	+	9	5
+	+	5	35
+	+	6	44
+
+> ~/datastr/ArrayStack.h
+	*	1656297079	0
+	"	28	0
+	^	24	0
+	.	25	15
+	+	1	19
+	+	1	20
+	+	1	6
+	+	1	0
+	+	1	23
+	+	1	17
+	+	1	1
+	+	1	19
+	+	1	17
+	+	1	12
+	+	1	32
+	+	1	10
+	+	1	9
+	+	1	10
+	+	1	20
+	+	19	12
+	+	17	8
+	+	24	36
+	+	23	33
+	+	27	35
+	+	29	5
+	+	23	51
+	+	24	39
+	+	25	15
+
+> ~/datastr/ArrayStack.c
+	*	1656297070	0
+	"	1	0
+	^	6	24
+	.	6	23
+	+	1	0
+	+	1	1
+	+	1	0
+	+	1	18
+	+	1	17
+	+	1	18
+	+	1	10
+	+	1	6
+	+	1	3
+	+	1	12
+	+	1	15
+	+	1	27
+	+	1	0
+	+	1	3
+	+	1	0
+	+	1	18
+	+	1	1
+	+	1	7
+	+	1	23
+	+	1	25
+	+	1	17
+	+	1	19
+	+	1	23
+	+	26	0
+	+	18	3
+	+	46	0
+	+	8	5
+	+	5	3
+	+	6	3
+	+	9	18
+	+	15	12
+	+	22	32
+	+	28	12
+	+	23	15
+	+	28	30
+	+	30	32
+	+	35	22
+	+	40	18
+	+	45	25
+	+	46	1
+	+	14	18
+	+	28	25
+	+	6	23
+
+> ~/Linux_homework/P1/Makefile
+	*	1656294554	0
+	"	1	0
+
+> ~/.vimrc
+	*	1654243702	0
+	"	1	0
+	^	4	15
+	.	4	14
+	+	6	29
+	+	4	14
+
+> ~/practice/ch7/pthread_cond2.c
+	*	1654243388	0
+	"	52	12
+	^	24	24
+	.	52	12
+	+	5	0
+	+	30	0
+	+	14	29
+	+	5	0
+	+	6	21
+	+	28	8
+	+	19	0
+	+	16	45
+	+	16	48
+	+	16	47
+	+	19	0
+	+	16	0
+	+	7	0
+	+	11	31
+	+	26	8
+	+	25	9
+	+	27	0
+	+	66	0
+	+	44	1
+	+	38	33
+	+	41	12
+	+	66	0
+	+	65	0
+	+	66	0
+	+	52	38
+	+	61	0
+	+	56	66
+	+	60	1
+	+	65	0
+	+	23	23
+	+	24	23
+	+	38	20
+	+	52	12
+
+> ~/practice/ch7/pthread_cond1.c
+	*	1654243292	0
+	"	101	3
+	^	66	22
+	.	95	0
+	+	10	50
+	+	9	0
+	+	10	51
+	+	12	47
+	+	11	0
+	+	12	48
+	+	48	0
+	+	26	0
+	+	25	9
+	+	27	0
+	+	28	0
+	+	23	24
+	+	28	45
+	+	41	2
+	+	47	8
+	+	40	0
+	+	39	8
+	+	80	1
+	+	77	0
+	+	76	31
+	+	61	0
+	+	60	8
+	+	67	0
+	+	66	31
+	+	73	0
+	+	81	15
+	+	84	27
+	+	87	35
+	+	90	28
+	+	95	4
+	+	96	29
+	+	94	15
+	+	102	0
+	+	101	32
+	+	104	27
+	+	105	34
+	+	106	29
+	+	79	12
+	+	109	12
+	+	50	5
+	+	81	5
+	+	28	43
+	+	72	0
+	+	71	32
+	+	96	21
+	+	66	21
+	+	95	0
+
+> ~/practice/ch7/pthread_mutex.c
+	*	1654241222	0
+	"	73	2
+	^	71	16
+	.	73	0
+	+	45	0
+	+	44	8
+	+	26	0
+	+	21	9
+	+	23	0
+	+	26	41
+	+	25	0
+	+	34	0
+	+	33	9
+	+	31	0
+	+	36	0
+	+	35	0
+	+	36	21
+	+	44	0
+	+	64	0
+	+	61	0
+	+	53	25
+	+	56	14
+	+	60	10
+	+	63	12
+	+	64	1
+	+	65	14
+	+	71	14
+	+	74	8
+	+	71	15
+	+	73	0
+
+> ~/practice/ch7/pthread_self.c
+	*	1654240544	0
+	"	34	12
+	^	34	13
+	.	34	12
+	+	8	1
+	+	9	0
+	+	35	0
+	+	30	1
+	+	14	0
+	+	13	9
+	+	21	0
+	+	20	9
+	+	24	10
+	+	25	8
+	+	27	0
+	+	28	0
+	+	32	22
+	+	33	37
+	+	34	12
+
+> ~/practice/ch7/pthread_equal.c
+	*	1654240189	0
+	"	34	0
+	^	34	1
+	.	32	25
+	+	27	0
+	+	26	8
+	+	14	35
+	+	6	28
+	+	17	0
+	+	16	9
+	+	23	0
+	+	22	9
+	+	26	0
+	+	30	1
+	+	35	0
+	+	33	12
+	+	31	78
+	+	32	25
+
+> ~/practice/ch7/pthread_join1.c
+	*	1654239903	0
+	"	42	0
+	^	39	11
+	.	39	10
+	+	9	1
+	+	27	8
+	+	42	0
+	+	41	12
+	+	23	0
+	+	17	9
+	+	22	9
+	+	26	0
+	+	35	7
+	+	32	16
+	+	35	30
+	+	40	0
+	+	39	10
+
+> ~/practice/ch7/pthread_exit2.c
+	*	1654239463	0
+	"	29	12
+	^	29	13
+	.	29	0
+	+	21	0
+	+	20	8
+	+	12	25
+	+	6	29
+	+	15	0
+	+	14	9
+	+	20	0
+	+	30	0
+	+	29	12
+	+	29	0
+
+> ~/practice/ch7/pthread_exit1.c
+	*	1654239157	0
+	"	29	4
+	^	29	5
+	.	29	5
+	+	3	0
+	+	10	1
+	+	24	8
+	+	21	0
+	+	20	0
+	+	19	10
+	+	24	0
+	+	35	0
+	+	29	19
+	+	31	30
+	+	35	0
+	+	11	15
+	+	14	17
+	+	31	1
+	+	29	5
+
+> ~/practice/ch7/pthread_create2.c
+	*	1654238486	0
+	"	11	4
+	^	11	5
+	.	11	4
+	+	12	0
+	+	11	14
+	+	50	0
+	+	49	8
+	+	26	10
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	26	10
+	+	27	10
+	+	28	10
+	+	29	10
+	+	30	10
+	+	31	10
+	+	32	10
+	+	33	10
+	+	26	36
+	+	27	41
+	+	28	24
+	+	29	32
+	+	30	39
+	+	31	42
+	+	32	41
+	+	33	42
+	+	46	0
+	+	37	40
+	+	45	0
+	+	44	10
+	+	48	9
+	+	66	0
+	+	60	34
+	+	61	37
+	+	64	62
+	+	65	12
+	+	39	26
+	+	17	13
+	+	11	4
+
+> ~/practice/ch7/pthread_create1.c
+	*	1654237638	0
+	"	35	0
+	^	35	1
+	.	34	12
+	+	24	0
+	+	23	8
+	+	17	0
+	+	16	9
+	+	21	79
+	+	22	9
+	+	27	1
+	+	34	12
+
+> ~/practice/ch8/daemon.c
+	*	1654236160	0
+	"	30	0
+	^	26	0
+	.	47	23
+	+	1	18
+	+	29	1
+	+	31	10
+	+	12	13
+	+	61	0
+	+	60	9
+	+	67	0
+	+	66	10
+	+	69	8
+	+	101	0
+	+	100	9
+	+	82	9
+	+	79	9
+	+	79	0
+	+	85	47
+	+	89	9
+	+	87	23
+	+	88	23
+	+	89	26
+	+	91	0
+	+	90	6
+	+	100	0
+	+	8	21
+	+	6	18
+	+	28	0
+	+	10	26
+	+	27	8
+	+	59	0
+	+	58	9
+	+	58	0
+	+	18	0
+	+	17	9
+	+	25	2
+	+	26	0
+	+	23	13
+	+	24	10
+	+	26	0
+	+	29	0
+	+	30	0
+	+	40	9
+	+	37	9
+	+	58	0
+	+	46	23
+	+	47	23
+
+> ~/practice/ch10/fcntl8.c
+	*	1654234711	0
+	"	48	25
+	^	9	31
+	.	48	25
+	+	6	0
+	+	10	1
+	+	20	0
+	+	19	9
+	+	25	0
+	+	24	9
+	+	30	0
+	+	29	9
+	+	37	0
+	+	36	9
+	+	57	0
+	+	56	0
+	+	55	10
+	+	60	8
+	+	9	30
+	+	48	25
+
+> ~/practice/ch10/ssu_employeefile
+	*	1654234630	0
+	"	1	0
+
+> ~/practice/ch10/ssu_employee.h
+	*	1654234053	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	7	1
+	+	5	10
+	+	6	11
+	+	4	14
+	+	1	19
+
+> ~/practice/ch10/fcntl7.c
+	*	1654233184	0
+	"	14	0
+	^	16	2
+	.	15	9
+	+	35	0
+	+	34	8
+	+	34	0
+	+	19	1
+	+	25	0
+	+	26	0
+	+	32	55
+	+	19	20
+	+	26	20
+	+	15	9
+
+> ~/practice/ch10/fcntl6.c
+	*	1654232420	0
+	"	13	32
+	^	13	33
+	.	13	32
+	+	15	0
+	+	14	8
+	+	14	0
+	+	13	32
+
+> ~/practice/ch10/loop.c
+	*	1654232383	0
+	"	2	0
+	^	2	1
+	.	3	11
+	+	4	0
+	+	3	11
+
+> ~/practice/ch10/fcntl5.c
+	*	1654232004	0
+	"	24	18
+	^	24	19
+	.	24	18
+	+	56	0
+	+	55	8
+	+	15	0
+	+	14	8
+	+	15	1
+	+	30	35
+	+	31	18
+	+	27	1
+	+	32	0
+	+	47	0
+	+	45	0
+	+	44	0
+	+	43	18
+	+	54	48
+	+	53	25
+	+	33	15
+	+	24	19
+	+	27	23
+	+	30	23
+	+	47	23
+	+	50	23
+	+	24	18
+
+> ~/practice/ch10/ssu_test1.txt
+	*	1654231894	0
+	"	1	0
+	^	4	10
+	.	4	9
+	+	4	9
+
+> ~/practice/ch10/fcntl4.c
+	*	1654230954	0
+	"	11	0
+	^	11	0
+	.	10	17
+	+	36	0
+	+	35	8
+	+	18	0
+	+	6	0
+	+	8	34
+	+	7	0
+	+	36	1
+	+	37	0
+	+	53	0
+	+	70	0
+	+	69	0
+	+	17	10
+	+	35	0
+	+	31	0
+	+	30	21
+	+	33	0
+	+	52	2
+	+	53	0
+	+	44	9
+	+	51	9
+	+	69	0
+	+	55	1
+	+	56	0
+	+	63	9
+	+	10	17
+
+> ~/practice/ch10/fcntl3.c
+	*	1654230306	0
+	"	1	0
+
+> ~/practice/ch10/fcntl2.c
+	*	1654230276	0
+	"	8	49
+	^	8	50
+	.	8	49
+	+	19	0
+	+	18	8
+	+	17	27
+	+	8	49
+
+> ~/practice/ch10/fcntl1.c
+	*	1654229276	0
+	"	18	10
+	^	18	11
+	.	19	0
+	+	19	0
+	+	18	19
+	+	18	10
+	+	19	0
+
+> ~/#Q3_20181224_V1/3.c
+	*	1651822562	0
+	"	41	0
+
+> ~/#Q3_20181224_V1/2.c
+	*	1651822455	0
+	"	45	0
+
+> ~/test/ch3/directory1.c
+	*	1651821891	0
+	"	28	17
+	^	42	29
+	.	28	17
+	+	47	0
+	+	46	8
+	+	15	32
+	+	9	32
+	+	18	1
+	+	11	30
+	+	46	0
+	+	23	57
+	+	46	0
+	+	45	15
+	+	28	44
+	+	42	11
+	+	30	11
+	+	20	9
+	+	25	9
+	+	37	0
+	+	36	8
+	+	40	50
+	+	42	29
+	+	28	17
+
+> ~/test/ch5/test.c
+	*	1651821072	0
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	1
+	+	1	24
+	+	1	0
+	+	1	10
+	+	1	0
+
+> ~/test/ch4/fscanf.c
+	*	1651663024	0
+	"	20	0
+	^	17	13
+	.	16	20
+	+	20	0
+	+	19	8
+	+	19	11
+	+	19	0
+	+	18	11
+	+	17	12
+	+	13	20
+	+	16	20
+
+> ~/test/ch4/ssu_test.dat
+	*	1651662932	0
+	"	1	0
+
+> ~/test/ch4/ftell.c
+	*	1651662562	0
+	"	18	0
+	^	15	19
+	.	15	18
+	+	18	0
+	+	17	8
+	+	17	0
+	+	15	8
+	+	14	5
+	+	15	18
+
+> ~/test/ch4/ftello.c
+	*	1651662320	0
+	"	1	0
+
+> ~/test/ch4/fread.c
+	*	1651662228	0
+	"	48	0
+	^	36	18
+	.	36	17
+	+	48	0
+	+	47	8
+	+	4	19
+	+	8	1
+	+	8	0
+	+	29	2
+	+	36	66
+	+	39	2
+	+	46	98
+	+	18	9
+	+	23	9
+	+	28	9
+	+	33	9
+	+	38	9
+	+	43	9
+	+	36	17
+
+> ~/test/ch4/fputs.c
+	*	1651661611	0
+	"	18	9
+	^	18	10
+	.	18	9
+	+	29	0
+	+	21	35
+	+	28	0
+	+	6	30
+	+	13	9
+	+	12	46
+	+	18	9
+
+> ~/test/ch4/fgets2.c
+	*	1651661169	0
+	"	14	35
+	^	14	36
+	.	14	35
+	+	24	0
+	+	23	8
+	+	19	0
+	+	16	0
+	+	15	8
+	+	18	17
+	+	22	15
+	+	14	35
+
+> ~/test/ch4/fgets.c
+	*	1651660799	0
+	"	15	2
+	^	15	3
+	.	11	36
+	+	8	1
+	+	23	8
+	+	16	0
+	+	15	0
+	+	14	10
+	+	16	2
+	+	21	0
+	+	20	9
+	+	22	0
+	+	18	16
+	+	11	36
+
+> ~/test/ch4/ungetc.c
+	*	1651660468	0
+	"	32	8
+	^	17	9
+	.	17	8
+	+	33	0
+	+	32	8
+	+	16	0
+	+	14	9
+	+	19	16
+	+	10	15
+	+	19	41
+	+	22	13
+	+	28	0
+	+	10	10
+	+	24	26
+	+	28	0
+	+	7	13
+	+	28	0
+	+	27	25
+	+	24	4
+	+	3	18
+	+	17	8
+
+> ~/test/ch4/ssu_expr.txt
+	*	1651660350	0
+	"	1	0
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/test/ch4/ferror.c
+	*	1651659877	0
+	"	16	9
+	^	16	10
+	.	16	9
+	+	5	0
+	+	4	32
+	+	34	0
+	+	33	8
+	+	32	11
+	+	31	0
+	+	30	0
+	+	29	23
+	+	26	15
+	+	11	9
+	+	16	9
+
+> ~/test/ch4/ssu_test.txt
+	*	1651659797	0
+	"	4	9
+	^	4	10
+	.	4	9
+	+	1	25
+	+	3	9
+	+	1	25
+	+	4	9
+
+> ~/test/ch4/ssu_test1.txt
+	*	1651659764	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
+
+> ~/test/ch4/getc.c
+	*	1651659441	0
+	"	21	0
+	^	21	1
+	.	13	0
+	+	21	0
+	+	13	0
+	+	12	0
+	+	11	10
+	+	20	8
+	+	17	9
+	+	13	0
+
+> ~/test/ch4/setbuf2.c
+	*	1651659190	0
+	"	17	0
+	^	17	0
+	.	17	0
+	+	21	0
+	+	20	8
+	+	20	0
+	+	3	0
+	+	20	18
+	+	20	14
+	+	20	18
+	+	20	12
+	+	20	26
+	+	20	0
+	+	19	8
+	+	17	0
+
+> ~/test/ch4/setbuf.c
+	*	1651658839	0
+	"	24	9
+	^	24	8
+	.	22	7
+	+	8	1
+	+	27	8
+	+	27	7
+	+	7	0
+	+	27	0
+	+	11	0
+	+	10	0
+	+	13	10
+	+	14	0
+	+	16	1
+	+	14	13
+	+	16	9
+	+	19	19
+	+	20	10
+	+	22	11
+	+	20	11
+	+	22	11
+	+	25	9
+	+	27	0
+	+	26	7
+	+	16	7
+	+	12	7
+	+	14	7
+	+	20	7
+	+	22	7
+
+> ~/test/ch4/fclose.c
+	*	1651658457	0
+	"	14	43
+	^	14	44
+	.	14	43
+	+	18	0
+	+	17	8
+	+	15	0
+	+	14	44
+	+	15	2
+	+	16	0
+	+	10	9
+	+	9	46
+	+	14	43
+
+> ~/test/ch4/freopen.c
+	*	1651658164	0
+	"	18	40
+	^	18	41
+	.	18	40
+	+	23	0
+	+	3	18
+	+	22	0
+	+	21	8
+	+	20	0
+	+	15	0
+	+	14	9
+	+	19	43
+	+	19	9
+	+	19	42
+	+	19	0
+	+	18	40
+
+> ~/test/ch4/fopen.c
+	*	1651657683	0
+	"	15	0
+	^	15	1
+	.	15	1
+	+	17	0
+	+	16	8
+	+	14	63
+	+	11	9
+	+	15	1
+
+> ~/test/ch4/ssu_test
+	*	1651657357	0
+	"	1	0
+
+> ~/setvbuf/setvbuf.c
+	*	1647427428	0
+	"	26	25
+	^	7	33
+	.	26	25
+	+	31	0
+	+	30	8
+	+	19	0
+	+	7	36
+	+	10	1
+	+	18	0
+	+	15	36
+	+	17	9
+	+	29	0
+	+	21	2
+	+	22	1
+	+	23	1
+	+	21	12
+	+	22	12
+	+	23	16
+	+	21	33
+	+	22	32
+	+	24	22
+	+	23	28
+	+	26	19
+	+	25	21
+	+	26	30
+	+	25	21
+	+	26	31
+	+	28	29
+	+	63	0
+	+	56	13
+	+	59	5
+	+	57	5
+	+	62	0
+	+	61	0
+	+	59	9
+	+	52	0
+	+	47	0
+	+	46	10
+	+	51	8
+	+	50	8
+	+	40	5
+	+	7	32
+	+	26	25
+
+> ~/setbuf2/setbuf2.c
+	*	1647425689	0
+	"	16	16
+	^	16	17
+	.	16	16
+	+	1	0
+	+	1	23
+	+	1	0
+	+	1	18
+	+	1	0
+	+	1	8
+	+	1	0
+	+	1	18
+	+	18	0
+	+	17	8
+	+	16	16
+
+> ~/setbuf1/setbuf1.c
+	*	1647425014	0
+	"	23	13
+	^	23	14
+	.	23	13
+	+	1	19
+	+	1	18
+	+	25	0
+	+	24	8
+	+	13	18
+	+	12	9
+	+	23	13
+
+> ~/fopen/fopen.c
+	*	1646811840	0
+	"	14	20
+	^	14	12
+	.	14	20
+	+	1	14
+	+	1	0
+	+	1	18
+	+	17	0
+	+	12	0
+	+	9	34
+	+	11	9
+	+	12	2
+	+	16	8
+	+	14	20
+
+> ~/fclose/fclose.c
+	*	1646811154	0
+	"	19	8
+	^	19	9
+	.	19	8
+	+	1	0
+	+	1	16
+	+	1	1
+	+	1	18
+	+	1	0
+	+	1	7
+	+	1	18
+	+	20	0
+	+	19	8
+
+> ~/fclose/ssu_test.txt
+	*	1646810800	0
+	"	1	0
+
+> ~/freopen/freopen.c
+	*	1646810528	0
+	"	11	0
+	^	11	0
+	.	11	0
+	+	1	0
+	+	1	17
+	+	1	45
+	+	1	0
+	+	1	30
+	+	1	18
+	+	20	1
+	+	21	0
+	+	19	8
+	+	11	0
+
+> ~/freopen/ssu_test.txt
+	*	1646809833	0
+	"	1	0
+
+> ~/gitpassword.txt
+	*	1646809016	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
+
+> ~/fopen/ssu_test.txt
+	*	1646806781	0
+	"	4	9
+	^	4	10
+	.	4	9
+	+	1	25
+	+	4	9
+
+> ~/fopen/ssu_tets.txt
+	*	1646806678	0
+	"	1	0
