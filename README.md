@@ -21,6 +21,7 @@ $ ./ssu_sdup
 ```
 
 ## Makefile 실행 설명(./ssu_sdup을 이용한 실행이 불가능할 경우)
+* P2 디렉토리 내부에서 Makefile 실행
 * 실행 파일이 없는 경우
 ```
 $ make all
