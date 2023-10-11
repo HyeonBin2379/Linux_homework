@@ -552,7 +552,7 @@ void searchFiles(char *dirpath, int depth, List *plist)
 				}
 				sprintf(curpath, "%s%s", curInfo->path, namelist[i]->d_name);
 			} 
-			else {	// 시작 디렉토리 != 루트 이외의 디렉토리
+			else {	// 시작 디렉토리 = 루트 이외의 디렉토리
 				sprintf(curpath, "%s/%s", curInfo->path, namelist[i]->d_name);
 			}
 
