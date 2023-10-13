@@ -6,8 +6,8 @@
 * (2023.10.14) P1_보고서.pdf 추가(실행 결과 및 날짜 캡처본 포함), Makefile 내 P2 ssu_sdup의 구현 여부 관련 설명 추가, Makefile 내 P1 ssu_find의 기능 및 구현 여부 관련 설명 추가
 ---
 ## 0. 목차
-1. [설계과제1: ssu_sindex](#설계과제1-ssu_sindex)
-2. [설계과제2: ssu_sdup](#설계과제2-ssu_sdup)
+1. [설계과제1: ssu_sindex](#1.-설계과제1-ssu_sindex)
+2. [설계과제2: ssu_sdup](#2.-설계과제2-ssu_sdup)
 ---
 ## 1. 설계과제1 ssu_sindex
 ### ssu_sindex 개요: 파일 탐색 및 속성 비교 프로그램
